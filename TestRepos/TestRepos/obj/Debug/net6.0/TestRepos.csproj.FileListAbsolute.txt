@@ -1,0 +1,14 @@
+D:\TuanNC15\SD18401\TestRepos\TestRepos\bin\Debug\net6.0\TestRepos.exe
+D:\TuanNC15\SD18401\TestRepos\TestRepos\bin\Debug\net6.0\TestRepos.deps.json
+D:\TuanNC15\SD18401\TestRepos\TestRepos\bin\Debug\net6.0\TestRepos.runtimeconfig.json
+D:\TuanNC15\SD18401\TestRepos\TestRepos\bin\Debug\net6.0\TestRepos.dll
+D:\TuanNC15\SD18401\TestRepos\TestRepos\bin\Debug\net6.0\TestRepos.pdb
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.AssemblyInfoInputs.cache
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.AssemblyInfo.cs
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.csproj.CoreCompileInputs.cache
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.dll
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\refint\TestRepos.dll
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.pdb
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\TestRepos.genruntimeconfig.cache
+D:\TuanNC15\SD18401\TestRepos\TestRepos\obj\Debug\net6.0\ref\TestRepos.dll
